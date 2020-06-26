@@ -9,3 +9,6 @@ In 1947 Portland, Maine, banker Andy Dufresne is convicted of murdering his wife
 * is friendly all the time
 * does not quarrel with his fate
 * makes friends
+
+As Andy said:
+> I guess it comes down to a simple choice, really. Get busy living, or get busy dying.

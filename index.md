@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# A short story about Andy Dufresne, who was imprisoned in Shawshank.

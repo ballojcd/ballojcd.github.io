@@ -12,3 +12,5 @@ In 1947 Portland, Maine, banker Andy Dufresne is convicted of murdering his wife
 
 As Andy said:
 > I guess it comes down to a simple choice, really. Get busy living, or get busy dying.
+
+<img src="https://www.magicalquote.com/wp-content/uploads/2014/10/Get-busy-living-or-get-busy-dying..jpg"/>
